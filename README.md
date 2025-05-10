@@ -1,5 +1,5 @@
 ### HI!!
-My name is Salma Adan. Welcome to my page. I am so happy you are here.
+## My name is Salma Adan. Welcome to my page. I am so happy you are here.
 
 ![ Heeeyy. What is up, My guy](https://media1.tenor.com/m/7JYwnjEtt4gAAAAd/the-grinch-grinch.gif)
 
