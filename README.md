@@ -15,5 +15,9 @@
 - 🌱 Currently learning at: **[ALX frontend engineering program]**
 - 🔭 Working on: **[An air BNB clone]**
 - 🌍 Languages: **[English, Swahili, A bit of French]**
-- 📫 How to reach me: **[Email: sallyadan531@gmail.com]**
+- 📫 How to reach me:
+  1. **[Email: sallyadan531@gmail.com]**
+  2. **[LinkedIN](www.linkedin.com/in/salma-bokayo-adan)**
+  3. **[Instagram](https://www.instagram.com/b_okay_o)**
+  
 - ⚡ Fun fact: **[I am a twin. HA]**
