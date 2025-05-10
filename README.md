@@ -16,8 +16,8 @@
 - 🔭 Working on: **[An air BNB clone]**
 - 🌍 Languages: **[English, Swahili, A bit of French]**
 - 📫 How to reach me:
-  1. **[Email]**(mailto:sallyadan531@gmail.com)
-  2. **[Linkedin]**(www.linkedin.com/in/salma-bokayo-adan)
-  3. **[Instagram]**(https://www.instagram.com/b_okay_o)
+  1. **[Email](mailto:sallyadan531@gmail.com)**
+  2. **[Linkedin](www.linkedin.com/in/salma-bokayo-adan)**
+  3. **[Instagram](https://www.instagram.com/b_okay_o)**
   
 - ⚡ Fun fact: **[I am a twin. HA]**
